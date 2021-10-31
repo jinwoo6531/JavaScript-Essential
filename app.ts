@@ -2,7 +2,6 @@ type Store = {
   currentPage: number;
   feeds: [];
 }
-
 type NewsFeed = {
   id: number;
   comments_count: number;
