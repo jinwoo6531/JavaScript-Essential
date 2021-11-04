@@ -323,5 +323,4 @@ router.setDefaultPage(newsFeedView);
 
 router.addRoutePath('/page/', newsFeedView);
 router.addRoutePath('/show/', newsDetailView);
-
 router.route();
