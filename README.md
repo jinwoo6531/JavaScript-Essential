@@ -9,7 +9,6 @@ export type FooFunction = () => string;
 -차이점은 없음
 -인터페이스는 같은 이름의 인터페이스가 분산돼서 개발할 수 있으나 특별한 장점은 없음
 
-
 extends는 여러개도 가능
 
 
